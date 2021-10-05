@@ -32,3 +32,8 @@
     font-size: 30px;
     text-align: center;
 }
+@media (max-width:480px){
+    .text{
+        font-size:20px;
+    }
+}
